@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(images/leather.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	font-family: Corbel, Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: lighter;
+	font-variant: normal;
+	color: #993333;
+	text-decoration: none;
+	padding-top: 19px;
+	padding-right: 19px;
+	padding-left: 19px;
+}
+.photoborder {
+	border: 2px solid #663331;
+}
+.copyright {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	color: #F7F8CB;
+	text-decoration: none;
+}
+.resume {
+	font-size: 12px;
+	color: #676768;
+}
+.resumebold {
+	font-size: 12px;
+	font-weight: bold;
+	color: #663333;
+}
